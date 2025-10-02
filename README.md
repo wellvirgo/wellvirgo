@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Hi, I am Dang The Hao<br>🔭 I'm a 3rd years student at HaUI<br>⚡ I want to become Java Developer
+🌱 Hi, I am Dang The Hao<br>🔭 I'm a final years student at HaUI<br>⚡ I want to become Java Developer
 
 
 ## 🌐 Socials:
